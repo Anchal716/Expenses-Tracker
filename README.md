@@ -37,7 +37,7 @@ Inlighn-Tech/
 ## How to Run the Project
 
 1. Clone the repository:
-git clone https://github.com/harshmishra2404/Inlighn-Tech.git
+git clone https://github.com/Anchal716/Expenses-Tracker
 
 markdown
 Copy code
